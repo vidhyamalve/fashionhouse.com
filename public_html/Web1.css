@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21 Aug, 2019, 11:57:39 AM
+    Author     : developer
+*/
+
+.style1{ border :1px solid ;
+         border-left-width:0px;
+         border-right-width:0px;
+         border-top-width:0px;
+         margin-left:5px;
+         margin-right:5px;
+         margin-top:1px;
+         margin-bottom:1px;
+         padding-left:600px;
+         padding-top: 15px;
+         padding-bottom: 20px;
+         background-color: #C1DAD6;
+         border-top-left-radius:10px; 
+         border-bottom-right-radius: 10px;
+         font-size:45px;
+         color:#A6D929B;
+
+        }
+
+.style2{
+          border :1px dashed #7EA3D5;
+          border-left-width:1px;
+          border-right-width:1px;
+          border-top-width:1px;
+          border-down-width:1px;
+          margin-left:4px;
+          padding-left:4px;
+          padding-top: 4px;
+          padding-bottom: 4px;
+          background-color:#C1DAD6;
+          font-size:20px;
+          color:#A6D929B;
+}
+.style3{
+          font-family:'Satisfy', cursive;
+
+          font-family: 'Bangers', cursive;
+
+          font-family: 'Tangerine', cursive;
+       }
+       .title1{
+           letter-spacing: 3px;
+           font-size: 55px;
+       } 
+       .link1{
+          background-color:#C1DAD6;  
+          padding-left:6px;
+          padding-right:6px;
+          padding-top:3px;
+          padding-bottom:3px;
+          font-size: 18px;
+          letter-spacing: 3px;
+          text-decoration: none;
+          border-color: darkgray;
+          border-style: solid;
+          border-left-width: 0px;
+          border-top-width: 0px;
+          border-right-width: 1px;
+          border-bottom-width: 1px;
+       }
