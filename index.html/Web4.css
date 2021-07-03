@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21 Aug, 2019, 3:17:38 PM
+    Author     : developer
+*/
+
+.style1{
+    font-family: 'Marck Script', cursive;
+    font-size:30px;
+    border-radius:10px;
+    border-style:double;
+    border-left-width:4px; 
+    border-right-width:4px; 
+    border-top-width:4px;
+    background-color:#CC99CC; 
+    margin-left:350px;
+    margin-right:350px;
+    margin-top:50px; 
+
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom:20px;
+}
+.style2{
+    background-color:#CC99CC; 
+}
+.style3{
+
+    font-size:40px;
+
+    font-family: 'Cormorant Garamond', serif;
+
+    font-family: 'Tangerine', cursive;
+    border-radius:10px;
+    border-style:double;
+    border-left-width:4px; 
+    border-right-width:4px; 
+    border-top-width:4px;
+    background-color:#C7E1BA; 
+    margin-left:350px;
+    margin-right:350px;
+    margin-top:250px; 
+
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom:20px;
+}
